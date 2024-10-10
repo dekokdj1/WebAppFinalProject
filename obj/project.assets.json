@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dekokdj\\source\\repos\\WebAppFinalProject\\WebAppFinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\dekokdj\\Source\\Repos\\dekokdj1\\WebAppFinalProject\\WebAppFinalProject.csproj",
       "projectName": "WebAppFinalProject",
-      "projectPath": "C:\\Users\\dekokdj\\source\\repos\\WebAppFinalProject\\WebAppFinalProject.csproj",
+      "projectPath": "C:\\Users\\dekokdj\\Source\\Repos\\dekokdj1\\WebAppFinalProject\\WebAppFinalProject.csproj",
       "packagesPath": "C:\\Users\\dekokdj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dekokdj\\source\\repos\\WebAppFinalProject\\obj\\",
+      "outputPath": "C:\\Users\\dekokdj\\Source\\Repos\\dekokdj1\\WebAppFinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
